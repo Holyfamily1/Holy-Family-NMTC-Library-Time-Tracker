@@ -1,0 +1,5 @@
+{
+  "name": "HF Library Time Tracker",
+  "description": "An application to track student entry and exit times at the Holy Family NMTC library, calculating the duration of each visit in hours and minutes.",
+  "requestFramePermissions": []
+}
